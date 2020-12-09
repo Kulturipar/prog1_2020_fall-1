@@ -1,0 +1,4 @@
+Adott napon jelent-e meg cikk a keresőszóval x darab honlapon?
+Mi volt nehéz? Nem egyforma a honlapok html struktúrája és ezért lényegesen több idő volt. 
+Mi volt az aha? Eléggé könnyű stringeket formázni.
+Mi volt a kurzus során megszerzett tudásból hasznos? Az interneten leírt dolgokat hogy lehet beforgatni a saját problémáid megoldásába. 
